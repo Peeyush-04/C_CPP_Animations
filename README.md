@@ -40,12 +40,6 @@ C_CPP_Animations/
 │   ├── ascii_particle_system/ # ASCII Particle System project
 │   │   ├── particles.c
 │   │   └── Makefile
-├── include/             # Shared header files
-│   └── common.h
-├── bin/                 # Compiled executables
-├── tests/               # Test files and examples
-│   ├── test_animation.c
-│   └── Makefile
 ```
 
 ## Getting Started
